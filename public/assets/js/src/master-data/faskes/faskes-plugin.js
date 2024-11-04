@@ -1,0 +1,2 @@
+$('body').append('<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>')
+$('body').append('<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>')

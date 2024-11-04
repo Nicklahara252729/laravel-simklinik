@@ -1,0 +1,4 @@
+#table-role th[ rowspan="2"],
+#table-role td[ rowspan="2"] {
+    vertical-align: middle;
+}

@@ -1,0 +1,45 @@
+$("body").append('<script src="assets/vendors/datatables/datatables.bundle.js"></script>');
+$("body").append('<script src="assets/vendors/vis-timeline/vis-timeline.bundle.js"></script>');
+$("body").append('<script src="https://cdn.amcharts.com/lib/5/index.js"></script>');
+$("body").append('<script src="https://cdn.amcharts.com/lib/5/xy.js"></script>');
+$("body").append('<script src="https://cdn.amcharts.com/lib/5/percent.js"></script>');
+$("body").append('<script src="https://cdn.amcharts.com/lib/5/radar.js"></script>');
+$("body").append('<script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+// $("body").append('<script src="/assets/vendors/dropify/js/dropify.min.js"></script>');
+
+{/* <script src="assets/plugins/custom/datatables/datatables.bundle.js"></script>
+    <script src="assets/plugins/custom/vis-timeline/vis-timeline.bundle.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/percent.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/radar.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
+
+<script src="assets/js/widgets.bundle.js"></script>
+    <script src="assets/js/custom/widgets.js"></script>
+    <script src="assets/js/custom/apps/chat/chat.js"></script>
+    <script src="assets/js/custom/utilities/modals/upgrade-plan.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-campaign.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-app.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/type.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/budget.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/settings.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/team.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/targets.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/files.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/complete.js"></script>
+    <script src="assets/js/custom/utilities/modals/create-project/main.js"></script>
+    <script src="assets/js/custom/utilities/modals/users-search.js"></script> */}

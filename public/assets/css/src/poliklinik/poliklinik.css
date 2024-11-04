@@ -1,0 +1,13 @@
+.select2-selection__choice{
+    /* display: block !important; */
+    width: 100% !important;
+    padding: 10px 5px !important;
+}
+
+.select2-selection__rendered{
+    /* width: 100% !important; */
+}
+
+.select2-selection__choice__display{
+    width: 100% !important;
+}

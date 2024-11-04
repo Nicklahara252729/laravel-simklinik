@@ -1,0 +1,47 @@
+/* .app-sidebar .menu .menu-arrow{
+    display: block !important;
+} */
+/* Define loader colors as variables */
+:root {
+    --loader-background-color: #EEEEEE;
+    --loader-highlight-color: #DEDEDE;
+}
+
+.app-sidebar .menu .menu-accordion .menu-sub-accordion .menu-item.here>.menu-link{ 
+    transition: color .2s ease;
+    background-color: #252f4a;
+    color: #ffffff;
+}
+
+.icon-white {
+    background-color: #fff !important;
+}
+
+.app-footer{
+    position: fixed; 
+    bottom: 0px; 
+    background-color:#FFF; 
+    width: 100%;
+    padding: 10px;
+    border-top: 1px #F1F1F2 solid
+}
+
+#kt_app_sidebar{
+    background-color: #F9F9F9;
+}
+
+.menu-loader {
+    background: linear-gradient(90deg, var(--loader-background-color) 25%, var(--loader-highlight-color) 50%, var(--loader-background-color) 75%);
+    background-size: 200% 100%;
+    animation: loading 2s infinite ease-in-out;
+}
+
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}

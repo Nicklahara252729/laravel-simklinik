@@ -1,0 +1,4 @@
+#table-petugas-poli th[ rowspan="2"],
+#table-petugas-poli td[ rowspan="2"] {
+    vertical-align: middle;
+}
